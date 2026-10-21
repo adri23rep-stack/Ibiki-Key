@@ -1,0 +1,26 @@
+IBIKI KEY 0.4.0 ALPHA - LIVE DASHBOARD
+============================================================
+
+1. Extrae TODA esta carpeta antes de ejecutar cualquier archivo.
+2. Haz doble clic en INSTALAR.bat.
+3. Espera el mensaje: INSTALACION COMPLETA.
+4. Haz doble clic en INICIAR.bat.
+
+Si la app no aparece:
+- Ejecuta diagnostics.bat.
+- Ejecuta run_console.bat para conservar el error en pantalla.
+- Usa run_as_admin.bat solo para controlar programas elevados.
+
+Atajos:
+- Ctrl + Alt + F11: terminar grabacion de mouse limpiamente.
+- Ctrl + Alt + F12: activar/reanudar el modo panico.
+
+Dashboard:
+- Tres paneles superiores para macros de teclado, estado Ahora y macros del mouse.
+- Teclado completo animado en la mitad inferior.
+- Clic derecho en una tecla para abrirla directamente en Remapeo.
+
+El mouse usa un motor nativo incluido. NO instales el paquete externo
+llamado "mouse"; el instalador se encarga de todos los componentes.
+
+Team Nikaido

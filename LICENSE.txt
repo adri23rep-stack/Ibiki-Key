@@ -1,0 +1,8 @@
+Ibiki Key
+Copyright © Team Nikaido. Todos los derechos reservados.
+
+Este código y sus recursos se entregan para desarrollo, prueba y compilación
+del producto Ibiki Key. No se concede permiso para redistribuir versiones
+modificadas, vender copias ni usar la identidad de Team Nikaido sin autorización.
+
+Las bibliotecas de terceros conservan sus propias licencias.

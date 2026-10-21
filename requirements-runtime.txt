@@ -1,0 +1,5 @@
+PySide6>=6.8,<7
+keyboard==0.13.5
+psutil>=6,<8
+pywin32>=306; platform_system == "Windows"
+pyperclip>=1.9,<2

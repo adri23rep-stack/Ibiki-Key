@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ibiki-key"
+version = "0.4.0a1"
+description = "Visual keyboard and mouse automation for Windows"
+requires-python = ">=3.10,<3.13"
+authors = [{ name = "Team Nikaido" }]
+dependencies = [
+  "PySide6>=6.8,<7",
+  "keyboard==0.13.5",
+  "psutil>=6,<8",
+  "pywin32>=306; platform_system == 'Windows'",
+  "pyperclip>=1.9,<2",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"

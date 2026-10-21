@@ -1,0 +1,7 @@
+{
+  "id": "sample_toast",
+  "name": "Ejemplo de aviso",
+  "version": "1.0.0",
+  "entry": "plugin.py",
+  "description": "Añade una acción que muestra un aviso dentro de Ibiki Key."
+}
